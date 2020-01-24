@@ -74,6 +74,4 @@ class Owner
     puts "I have #{dogs.size} dogs(s), and #{cats.size} cat(s)."
   end 
   
-  
-    
 end 
